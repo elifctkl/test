@@ -1,4 +1,7 @@
 //import java.util.Arrays;
+//begintemp =vonlinks
+//endtemp = vonRechts
+
 
 public class Main {
 
